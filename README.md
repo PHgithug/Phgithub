@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 
-Meu nome é P. Henrique
+Meu nome é Pedro H.
 
 
 Estou estudando na Alura
